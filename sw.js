@@ -6,8 +6,8 @@
 //   version is published.
 // - BIG: the full engine for Deep reviews (about 99 MB). Stored separately, in
 //   the background, and kept across app updates so it is downloaded once.
-const VERSION = "3a78228921cd";
-const SHELL = ["assets/dist-CixD3Ru4.js","assets/esm-9iplN-bJ.js","assets/esm-B3mkzffL.js","assets/esm-CKKF9ryf.js","assets/index-BdWX5Qfm.js","assets/index-c1kbQFJ0.css","assets/web-Ba0TZG9T.js","assets/web-DDuEAKx8.js","assets/web-DXBXrMIR.js","engine/stockfish-19-lite-single.js","engine/stockfish-19-lite-single.wasm","icons/apple-touch-icon.png","icons/icon-192.png","icons/icon-512.png","index.html","licenses/stockfish-GPL-3.0.txt","manifest.webmanifest"];
+const VERSION = "b86a471b4bcc";
+const SHELL = ["assets/dist-CixD3Ru4.js","assets/esm-CLn2UbRM.js","assets/esm-TPAa8t1l.js","assets/esm-xSZmqXOF.js","assets/index-DnaWyqk5.js","assets/index-ZiXtycCk.css","assets/web-Ba0TZG9T.js","assets/web-DXBXrMIR.js","assets/web-In5-MVUn.js","engine/stockfish-19-lite-single.js","engine/stockfish-19-lite-single.wasm","icons/apple-touch-icon.png","icons/icon-192.png","icons/icon-512.png","index.html","licenses/stockfish-GPL-3.0.txt","manifest.webmanifest"];
 const BIG = ["engine/stockfish-19-single.js","engine/stockfish-19-single.wasm"];
 
 const SHELL_CACHE = `game-review-${VERSION}`;
