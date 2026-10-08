@@ -1,0 +1,15 @@
+{
+  "name": "Game Review",
+  "short_name": "Game Review",
+  "description": "Personal chess game review: paste a PGN or pick a chess.com game, and Stockfish reviews it on this device.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#312e2b",
+  "theme_color": "#1f1e1b",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
